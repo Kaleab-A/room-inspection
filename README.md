@@ -6,7 +6,11 @@
   The Room Inspection App is designed to streamline the process of evaluating room status at the African Leadership Academy. This app replaces traditional paperwork used by house heads, making the evaluation results easily accessible to students and providing valuable feedback by highlighting the three areas where students received the lowest scores.
 </p>
 
-![Room Inspection App](https://your-image-url-here.com)
+![Room Inspection App Screenshot 1](https://github.com/Kaleab-A/room-inspection/blob/main/sample/photo_2023-10-04_09-11-15.jpg?raw=true)
+![Room Inspection App Screenshot 1](https://github.com/Kaleab-A/room-inspection/blob/main/sample/photo_2023-10-04_09-11-12.jpg?raw=true)
+![Room Inspection App Screenshot 3](https://github.com/Kaleab-A/room-inspection/blob/main/sample/photo_2023-10-04_09-11-13.jpg?raw=true)
+
+
 
 <!-- Table of Contents -->
 ## Table of Contents
