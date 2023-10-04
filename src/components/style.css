@@ -1,0 +1,26 @@
+.btn-primary {
+	background-color: maroon !important;
+}
+
+body {
+	padding: 75px 0;
+}
+
+#formSubmitButton {
+	width: 20%;
+	margin-left: 35%;
+}
+
+.singleQuestion {
+	margin-top: 10px;
+	font-family: sans-serif;
+}
+
+.formSlider {
+}
+
+#sendReportButton {
+	width: 20%;
+	margin-left: 35%;
+	margin-top: 4%;
+}
