@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+<!-- Room Inspection App -->
+<h1 align="center">Room Inspection App</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- Project Description -->
+<p align="center">
+  The Room Inspection App is designed to streamline the process of evaluating room status at the African Leadership Academy. This app replaces traditional paperwork used by house heads, making the evaluation results easily accessible to students and providing valuable feedback by highlighting the three areas where students received the lowest scores.
+</p>
 
-## Available Scripts
+![Room Inspection App](https://your-image-url-here.com)
 
-In the project directory, you can run:
+<!-- Table of Contents -->
+## Table of Contents
 
-### `npm start`
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [How It Works](#how-it-works)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- Features -->
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Automation**: Automate the room evaluation process, reducing paperwork and manual effort.
+- **Student Access**: Provide easy access to evaluation results for students.
+- **Feedback**: Offer improvement feedback by highlighting the three lowest-scoring areas.
+- **Authentication**: Use Firebase for user authentication.
+- **Data Storage**: Store evaluation scores for every student in Firebase.
+- **Monthly Reports**: Send monthly reports on overall residential status to relevant administrators.
+- **Mobile Accessibility**: Convert the project into an Android app for convenient use by house heads.
 
-### `npm test`
+<!-- Technologies Used -->
+## Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React.js**: Frontend development.
+- **Firebase**: Authentication and data storage.
+- **Emailjs**: Sending monthly reports.
+- **Android**: Mobile app development.
 
-### `npm run build`
+<!-- Getting Started -->
+## Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To get the Room Inspection App up and running on your local machine, follow these steps:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. **Clone the Repository**:
+   - Clone this repository to your local machine using the following command:
+     ```
+     git clone https://github.com/your-username/room-inspection-app.git
+     ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. **Install Dependencies**:
+   - Navigate to the project directory.
+   - Install project dependencies by running:
+     ```
+     npm install
+     ```
 
-### `npm run eject`
+3. **Configure Firebase**:
+   - Set up a Firebase project and configure the app with Firebase credentials.
+   - Update the Firebase configuration in the project.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+4. **Run the App**:
+   - Start the app by running:
+     ```
+     npm start
+     ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+5. **Access the App**:
+   - Open your web browser and visit `http://localhost:3000` to access the Room Inspection App.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<!-- How It Works -->
+## How It Works
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The Room Inspection App simplifies the room evaluation process by automating the following steps:
 
-## Learn More
+1. House heads log in to the app using Firebase authentication.
+2. They perform room inspections and input evaluation scores for students.
+3. The app stores these scores securely in Firebase.
+4. Monthly reports on overall residential status are generated and sent to relevant administrators.
+5. Students can access their evaluation results, including feedback on areas for improvement.
+6. The project is built into an Android app to facilitate easy access for house heads.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to explore and use the Room Inspection App!
+</p>
