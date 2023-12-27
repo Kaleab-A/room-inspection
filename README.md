@@ -81,5 +81,3 @@ The Room Inspection App simplifies the room evaluation process by automating the
 5. Students can access their evaluation results, including feedback on areas for improvement.
 
 <hr/>
-Feel free to explore and use the Room Inspection App!
-</p>
